@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="radius">20dp</dimen>
+</resources>

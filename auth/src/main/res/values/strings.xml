@@ -1,0 +1,21 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="user_email">User email</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+
+    <string name="please_text_valid_email">Please text valid email</string>
+    <string name="password_was_send">Password was send successful</string>
+    <string name="email_not_valid">Please provide valid Email!</string>
+    <string name="password_not_valid">Please provide valid Password!</string>
+    <string name="i_already_have_an_account">I already have an account</string>
+    <string name="phone_number_or_email">Email</string>
+    <string name="user_name">User name</string>
+    <string name="user_name_is_require">User name is required!</string>
+    <string name="please_provide_valid_email">Please provide valid Email!</string>
+    <string name="password_length_should_be_more_5_characters">Password length should be more 5 characters!</string>
+</resources>

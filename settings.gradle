@@ -1,0 +1,5 @@
+rootProject.name = "TrackingLocationHelper"
+include ':trackingLocationsApp'
+include ':showLocationsApp'
+include ':auth'
+include ':core'

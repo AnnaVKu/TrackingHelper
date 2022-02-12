@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrackingLocationForParent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="failed_to_login">Failed to login</string>
+    <string name="user_is_registered">User has been registered successfully!</string>
+    <string name="fail_to_register">Failed to register</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="button_for_dropping_date_to_current">buttonForDroppingDateToCurrent</string>
+    <string name="warning_to_find_users_location">Please select on the calendar current date</string>
+    <string name="warning_allow_permissions">To find the current location please allow it in the settings</string>
+    <string name="warning_not_data">Arrays if locations is empty</string>
+    <string name="marker_title">Marker in Moscow</string>
+    <string name="title_app">Tracking helper for parents</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "298556507817",
+    "firebase_url": "https://location-tracker-de1a9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "location-tracker-de1a9",
+    "storage_bucket": "location-tracker-de1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298556507817:android:2231cee3e217a0488a8bb8",
+        "android_client_info": {
+          "package_name": "com.example.locationtrackerforchild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298556507817-t2f66vrnrq957j3032dount9dit623oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5UGTtMf4GgOx2-jdHspSprzbLUiUkWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298556507817-t2f66vrnrq957j3032dount9dit623oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298556507817:android:f4755dce773999a98a8bb8",
+        "android_client_info": {
+          "package_name": "com.example.locationtrackerforparents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298556507817-t2f66vrnrq957j3032dount9dit623oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5UGTtMf4GgOx2-jdHspSprzbLUiUkWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298556507817-t2f66vrnrq957j3032dount9dit623oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298556507817:android:19fbabd2565012cb8a8bb8",
+        "android_client_info": {
+          "package_name": "com.example.trackinglocationhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298556507817-t2f66vrnrq957j3032dount9dit623oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5UGTtMf4GgOx2-jdHspSprzbLUiUkWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298556507817-t2f66vrnrq957j3032dount9dit623oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

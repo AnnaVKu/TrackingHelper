@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tracking Location Helper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="failed_to_login">Failed to login</string>
+    <string name="user_is_registered">User has been registered successfully!</string>
+    <string name="fail_to_register">Failed to register</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="title_location_service">Location service</string>
+    <string name="text_is_running">is running</string>
+    <string name="notification_gps_text">to continue apps work please go to setting to turn on GPS</string>
+    <string name="notification_gps_title">GPS is not available</string>
+    <string name="user_info_gps_not_available">GPS is not available. Please go to the Settings to fix it</string>
+    <string name="toolbar_app_name">Tracking location A</string>
+    <string name="warning_for_background_permissions">App cant work correctly without background location permissions</string>
+    <string name="dialog_msg_location">Allow location permission to get location updates in background</string>
+    <string name="dialog_positive_button_location">Allow</string>
+    <string name="dialog_negative_button_location">Cancel</string>
+    <string name="warning_for_gps">App cant work correctly without GPS</string>
+    <string name="dialog_msg_gps">GPS network not Enabled</string>
+    <string name="dialog_positive_button_gps">Open location settings</string>
+    <string name="dialog_negative_button_gps">Cancel</string>
+    <string name="marker_Moscow">Marker in Moscow</string>
+</resources>
